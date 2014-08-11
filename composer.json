@@ -1,0 +1,17 @@
+{
+    "name": "root/social-status-tokenizer",
+    "description": "Tokenizer for social updates string",
+    "authors": [
+        {
+            "name": "radek.baczynski",
+            "email": "radek.baczynski@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+
+    },
+    "autoload": {
+        "psr-4": {"RB\\": "src/RB"}
+    }
+}
